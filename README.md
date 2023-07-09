@@ -56,4 +56,4 @@ shazam-toy identify -m -d 10
 
 ## Performance
 The performance are about what you would expect from a toy-implementation.
-(performance.png)
+![image](performance.png)
